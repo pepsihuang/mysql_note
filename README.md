@@ -6,7 +6,7 @@ mysql学习札记
 
 2. [重要日志模块](https://github.com/skyhuangdan/mysql_note/blob/master/%E9%87%8D%E8%A6%81%E6%97%A5%E5%BF%97%E6%A8%A1%E5%9D%97.md)
 
-3. 事务隔离
+3. [事务隔离](https://github.com/skyhuangdan/mysql_note/blob/master/%E4%BA%8B%E5%8A%A1.md)
 
 4. 索引
 
